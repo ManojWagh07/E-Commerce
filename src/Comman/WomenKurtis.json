@@ -1,0 +1,279 @@
+{
+    "Kurtis" : [
+        {
+            "id":1,
+            "image":"./Image/Women Wear/Kurtis/K1.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "price":1099
+
+        },
+        
+        {
+            "id":2,
+            "image":"./Image/Women Wear/Kurtis/K2.jpg",
+            "name":"Park Avenue",
+            "desc":"Checks Cotton Regular Fit Men's Wear Casual Shirt",
+            "price":1499
+
+        },
+        {
+            "id":3,
+            "image":"./Image/Women Wear/Kurtis/K3.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "price":1099
+
+        },
+        {
+            "id":4,
+            "image":"./Image/Women Wear/Kurtis/K4.jpg",
+            "name":"Park Avenue",
+            "desc":"Checks Cotton Regular Fit Men's Shirt",
+            "price":1499
+
+        },
+        {
+            "id":5,
+            "image":"./Image/Women Wear/Kurtis/K5.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "price":1099
+
+        },
+        {
+            "id":6,
+            "image":"./Image/Women Wear/Kurtis/K6.jpg",
+            "name":"Park Avenue",
+            "desc":"Checks Cotton Regular Fit Men's Shirt",
+            "price":1499
+
+        },
+        {
+            "id":7,
+            "image":"./Image/Women Wear/Kurtis/K7.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "price":1099
+
+        },
+        {
+            "id":8,
+            "image":"./Image/Women Wear/Kurtis/K8.jpg",
+            "name":"Park Avenue",
+            "desc":"Checks Cotton Regular Fit Men's Shirt",
+            "price":1499
+
+        }
+    ],
+
+
+
+   "Saree" : [
+        {
+            "id":1,
+            "image":"./Image/Women Wear/Saree/S1.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "price":1099
+
+        },
+        
+        {
+            "id":2,
+            "image":"./Image/Women Wear/Saree/S2.jpg",
+            "name":"Park Avenue",
+            "desc":"Checks Cotton Regular Fit Men's Wear Casual Shirt",
+            "price":1499
+
+        },
+        {
+            "id":3,
+            "image":"./Image/Women Wear/Saree/S3.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "price":1099
+
+        },
+        {
+            "id":4,
+            "image":"./Image/Women Wear/Saree/S4.jpg",
+            "name":"Park Avenue",
+            "desc":"Checks Cotton Regular Fit Men's Shirt",
+            "price":1499
+
+        },
+        {
+            "id":5,
+            "image":"./Image/Women Wear/Saree/S5.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "price":1099
+
+        },
+        {
+            "id":6,
+            "image":"./Image/Women Wear/Saree/S6.jpg",
+            "name":"Park Avenue",
+            "desc":"Checks Cotton Regular Fit Men's Shirt",
+            "price":1499
+
+        },
+        {
+            "id":7,
+            "image":"./Image/Women Wear/Saree/S7.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "price":1099
+
+        },
+        {
+            "id":8,
+            "image":"./Image/Women Wear/Saree/S8.jpg",
+            "name":"Park Avenue",
+            "desc":"Checks Cotton Regular Fit Men's Shirt",
+            "price":1499
+
+        }
+    ],
+
+
+
+    "FootWear" : [
+        {
+            "id":1,
+            "image":"./Image/Women Wear/FootWear/GSLJ032_BLACK.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "price":1099
+
+        },
+        
+        {
+            "id":2,
+            "image":"./Image/Women Wear/FootWear/KLP1PINK1_PINK.jpg",
+            "name":"Park Avenue",
+            "desc":"Checks Cotton Regular Fit Men's Wear Casual Shirt",
+            "price":1499
+
+        },
+        {
+            "id":3,
+            "image":"./Image/Women Wear/FootWear/GSLJ051_MULTI.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "price":1099
+
+        },
+        {
+            "id":4,
+            "image":"./Image/Women Wear/FootWear/FWLP115906_YELLOW_alt2.jpg",
+            "name":"Park Avenue",
+            "desc":"Checks Cotton Regular Fit Men's Shirt",
+            "price":1499
+
+        },
+        {
+            "id":5,
+            "image":"./Image/Women Wear/FootWear/GSLJ037_MULTI.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "price":1099
+
+        },
+        {
+            "id":6,
+            "image":"./Image/Women Wear/FootWear/FWSTKOLHJODH_BLACK_alt1.jpg",
+            "name":"Park Avenue",
+            "desc":"Checks Cotton Regular Fit Men's Shirt",
+            "price":1499
+
+        },
+        {
+            "id":7,
+            "image":"./Image/Women Wear/FootWear/SSFWHC122953_BLACK.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "price":1099
+
+        },
+        {
+            "id":8,
+            "image":"./Image/Women Wear/FootWear/SS23FTN055_WHITE.jpg",
+            "name":"Park Avenue",
+            "desc":"Checks Cotton Regular Fit Men's Shirt",
+            "price":1499
+
+        }
+    ],
+
+
+    "Perfume" : [
+        {
+            "id":1,
+            "image":"./Image/Women Wear/Perfume/p1.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt ",
+            "price":1099
+
+        },
+        
+        {
+            "id":2,
+            "image":"./Image/Women Wear/Perfume/p2.jpg",
+            "name":"Park Avenue",
+            "desc":"Checks Cotton Regular Fit Men's Wear Casual Shirt",
+            "price":1499
+
+        },
+        {
+            "id":3,
+            "image":"./Image/Women Wear/Perfume/p3.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "price":1099
+
+        },
+        {
+            "id":4,
+            "image":"./Image/Women Wear/Perfume/p4.jpg",
+            "name":"Park Avenue",
+            "desc":"Checks Cotton Regular Fit Men's Shirt",
+            "price":1499
+
+        },
+        {
+            "id":5,
+            "image":"./Image/Women Wear/Perfume/p5.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "price":1099
+
+        },
+        {
+            "id":6,
+            "image":"./Image/Women Wear/Perfume/p6.jpg",
+            "name":"Park Avenue",
+            "desc":"Checks Cotton Regular Fit Men's Shirt",
+            "price":1499
+
+        },
+        {
+            "id":7,
+            "image":"./Image/Women Wear/Perfume/p7.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "price":1099
+
+        },
+        {
+            "id":8,
+            "image":"./Image/Women Wear/Perfume/p8.jpg",
+            "name":"Park Avenue",
+            "desc":"Checks Cotton Regular Fit Men's Shirt",
+            "price":1499
+
+        }
+    ]
+
+}
