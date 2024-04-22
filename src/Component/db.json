@@ -1,0 +1,68 @@
+{
+    "Formal" : [
+        {
+            "id":1,
+            "image":"./Image/Women Wear/Kurtis/3224MUSTARD_YELLOW.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "price":1099
+
+        },
+        {
+            "id":2,
+            "image":"./Image/Women Wear/Kurtis/3360GREEN_GREEN.jpg",
+            "name":"Park Avenue",
+            "desc":"Checks Cotton Regular Fit Men's wear Casual Shirt",
+            "price":1499
+
+        },
+        {
+            "id":3,
+            "image":"./Image/Women Wear/Kurtis/1153PINK_PINK.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "price":1099
+
+        },
+        {
+            "id":4,
+            "image":"./Image/Women Wear/Kurtis/9740IVORY_IVORY.jpg",
+            "name":"Park Avenue",
+            "desc":"Checks Cotton Regular Fit Men's wear Casual Shirt",
+            "price":1499
+
+        },
+        {
+            "id":5,
+            "image":"./Image/Women Wear/Kurtis/A21J0238LCD_WHITE.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "price":1099
+
+        },
+        {
+            "id":6,
+            "image":"./Image/Women Wear/Kurtis/A212634B_BLACK.jpg",
+            "name":"Park Avenue",
+            "desc":"Checks Cotton Regular Fit Men's wear Casual Shirt",
+            "price":1499
+
+        },
+        {
+            "id":7,
+            "image":"./Image/Women Wear/Kurtis/MSANKGWN841_MULTI.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "price":1099
+
+        },
+        {
+            "id":8,
+            "image":"./Image/Women Wear/Kurtis/S22MY678A_BROWN.jpg",
+            "name":"Park Avenue",
+            "desc":"Checks Cotton Regular Fit Men's wear Casual Shirt",
+            "price":1499
+
+        }
+    ]
+}
