@@ -1,0 +1,396 @@
+{
+    "Saree":[
+        {
+            "id":1,
+            "image":"./Image/Women Wear/Saree/S1.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":2,
+            "image":"./Image/Women Wear/Saree/S2.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":3,
+            "image":"./Image/Women Wear/Saree/S3.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":4,
+            "image":"./Image/Women Wear/Saree/S4.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":5,
+            "image":"./Image/Women Wear/Saree/S5.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":6,
+            "image":"./Image/Women Wear/Saree/S6.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":7,
+            "image":"./Image/Women Wear/Saree/S7.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":8,
+            "image":"./Image/Women Wear/Saree/S8.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":9,
+            "image":"./Image/Women Wear/Saree/S9.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":10,
+            "image":"./Image/Women Wear/Saree/S10.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":11,
+            "image":"./Image/Women Wear/Saree/S11.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":12,
+            "image":"./Image/Women Wear/Saree/S12.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":13,
+            "image":"./Image/Women Wear/Saree/S13.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":14,
+            "image":"./Image/Women Wear/Saree/S14.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":15,
+            "image":"./Image/Women Wear/Saree/S15.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":16,
+            "image":"./Image/Women Wear/Saree/S16.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        }
+        
+    ],
+
+    "Kurti":[
+        {
+            "id":1,
+            "image":"./Image/Women Wear/Kurtis/K1.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":2,
+            "image":"./Image/Women Wear/Kurtis/K2.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":3,
+            "image":"./Image/Women Wear/Kurtis/K3.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":4,
+            "image":"./Image/Women Wear/Kurtis/K4.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":5,
+            "image":"./Image/Women Wear/Kurtis/K5.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":6,
+            "image":"./Image/Women Wear/Kurtis/K6.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":7,
+            "image":"./Image/Women Wear/Kurtis/K7.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":8,
+            "image":"./Image/Women Wear/Kurtis/K8.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":9,
+            "image":"./Image/Women Wear/Kurtis/K9.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":10,
+            "image":"./Image/Women Wear/Kurtis/K10.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":11,
+            "image":"./Image/Women Wear/Kurtis/K11.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":12,
+            "image":"./Image/Women Wear/Kurtis/K12.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":13,
+            "image":"./Image/Women Wear/Kurtis/K13.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":14,
+            "image":"./Image/Women Wear/Kurtis/K14.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":15,
+            "image":"./Image/Women Wear/Kurtis/K15.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":16,
+            "image":"./Image/Women Wear/Kurtis/K16.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        }
+        
+    ],
+    
+    "Western":[
+        {
+            "id":1,
+            "image":"./Image/Women Wear/Skirt/S1.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":2,
+            "image":"./Image/Women Wear/Skirt/S2.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":3,
+            "image":"./Image/Women Wear/Skirt/S3.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":4,
+            "image":"./Image/Women Wear/Skirt/S4.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":5,
+            "image":"./Image/Women Wear/Skirt/S5.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":6,
+            "image":"./Image/Women Wear/Skirt/S6.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":7,
+            "image":"./Image/Women Wear/Skirt/S7.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":8,
+            "image":"./Image/Women Wear/Skirt/S8.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":9,
+            "image":"./Image/Women Wear/Skirt/S9.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":10,
+            "image":"./Image/Women Wear/Skirt/S10.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":11,
+            "image":"./Image/Women Wear/Skirt/S11.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":12,
+            "image":"./Image/Women Wear/Skirt/S12.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":13,
+            "image":"./Image/Women Wear/Skirt/S13.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":14,
+            "image":"./Image/Women Wear/Skirt/S14.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":15,
+            "image":"./Image/Women Wear/Skirt/S15.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        },
+        {
+            "id":16,
+            "image":"./Image/Women Wear/Skirt/S16.jpg",
+            "name":"Van Heusen",
+            "desc":"Checks Cotton Slim Fit Men's Formal Wear Shirt",
+            "images":"./Image/BG/4.5 Star.png",
+            "price":1099
+        }
+    ]
+}
