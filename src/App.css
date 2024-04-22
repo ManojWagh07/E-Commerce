@@ -1,0 +1,948 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  margin: 0;
+  overflow-x: hidden;
+}
+@media only screen and (max-width: 350px) {
+  .Navbar {
+    display: block;
+    overflow: hidden;
+  }
+  .carousel img{
+    height: 10rem;
+  }
+}
+
+
+/* ____________________H O M E  N A V B A R__________________________ */
+
+
+.icons{
+  background-color: rgb(253, 210, 146);
+  width: 100%;
+  height: 3rem;
+}
+.socialicon{
+  position: relative;
+  top: 10px;
+  left: 10rem;
+}
+.socialicon p{
+  display: inline;
+  margin-left: 20px;
+}
+.socialicon p:hover{
+  color: rgb(79, 79, 71);
+}
+.symbol{
+  background-color: white;
+  width: 100%;
+  height: 3.5rem;
+  border-bottom: 2px solid gray;
+}
+.symbol .callus{
+  position: relative;
+  left: 10rem;
+}
+.callus h6 span{
+  color: rgb(205, 159, 90);
+}
+.callus p{
+  color: rgb(205, 159, 90);
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+.symbol .callus h6{
+  position: absolute;
+  top: 5px;
+  left: 40px;
+}
+.symbol .whislist{
+  position: absolute;
+  top: 55px;
+  right: 10rem;
+}
+.whislist{
+  position: relative;
+  right: 5rem !important;
+}
+.whislist h5{
+  display: inline;
+  margin-left: 20px;
+}
+.whislist .search{
+  position: absolute;
+  right: 7.5rem;
+  border: none;
+  outline: none;
+  width: 220px;
+  height: 40px;
+  font-size: 16px;
+  border-bottom: solid 2px black;
+}
+.whislist .search:hover{
+  outline: none;
+}
+.whislist h5 .linked{
+  position:relative;
+  top: 10px;
+  right: -10px;
+  color: black;
+}
+.whislist h5 .linked:hover{
+  color: rgb(205, 159, 90);
+}
+.Navbar{
+  position: relative;
+  background-color: white;
+  width: 100%;
+  height: 3.5rem;
+  z-index: 5;
+}
+.symbol img{
+  position: relative;
+  top: -4.5rem;
+  left: 40rem;
+  width: 150px;
+  height: 150px;
+}
+.Navbar .logo {
+  position: absolute;
+  top: -40px;
+  left: 10px;
+}
+
+.Navbar ul li .link{
+  list-style: none;
+  text-decoration: none;
+  color:rgb(205, 159, 90);
+  
+}
+.Navbar ul li{
+  position: relative;
+  top: 10px;
+  left: 13rem;
+  text-transform: uppercase;
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display:inline-flex;
+  margin-left: 40px;
+}
+.Navbar ul li .dropdown li{
+  font-size: 15px;
+  display: none;
+  text-align: center;
+  left: 6rem;
+  top: 40px;
+  width: 15rem;
+  background-color: white;
+  color: rgb(205, 159, 90);
+}
+.Navbar ul li:hover .dropdown li{
+  display: block;
+  margin-left: -20rem;
+}
+
+.Navbar ul li .link:hover{
+  color: black;
+  border-bottom: rgb(205, 159, 90) solid 2px;
+}
+.Navbar ul li .search{
+  border: black solid 2px;
+  border-radius: 10px;
+  background-color: transparent;
+  width: 15rem;
+  height: 35px;
+  font-size: 20px;
+}
+.Navbar ul li img{
+  position: absolute;
+  top: 6px;
+  left: 190px;
+}
+
+.Navbar .buttons{
+  margin-right: 20px;
+}
+.Navbar .buttons:hover{
+  background-color: orangered;
+  color: black;
+}
+.Slider{
+  width: 100%;
+  height: 100vh;
+}
+
+
+
+/*_____________________H O M E  C A R O U S E L_________________________ */
+
+
+.carousel .thumbs-wrapper{
+  display: none !important;
+}
+.carousel .box2{
+  position: absolute;
+  top: 15rem;
+  right: 35rem;
+  margin-right: 30rem;
+}
+.carousel h1{
+  color: black;
+  position: absolute;
+  right: -0rem;
+  top: -1rem;
+  text-transform: uppercase;
+  font-size: 70px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.carousel h4{
+  position: absolute;
+  right: 2rem;
+  top: 4rem;
+  color: black;
+}
+.shop{
+  position: absolute;
+  top: 10rem;
+  right: 20rem;
+  font-size: 30px;
+  background-color: transparent;
+  border: red solid 2px;
+  border-radius: 15px;
+  width: 12rem;
+  height: 60px;
+}
+.shop:hover{
+  background-color: orangered;
+  color: white;
+}
+.carousel img{
+  height: 78vh;
+  width: 100%;
+}
+
+
+.carousel .control-prev.control-arrow {
+  left: 0;
+}
+/*__________________S H I P P I N G_____________________*/
+
+
+.contain{
+  width: 100%;
+  height: 28vh;
+  background-color: rgb(253, 239, 219);
+}
+.boxes{
+  justify-content: space-evenly;
+  display: flex;
+}
+.Cards{
+  border-right: solid 2px gray;
+  width: 350px;
+}
+.Cards h1{
+  position: relative;
+  left: 5rem;
+  top: 20px;
+}
+.Card h1{
+  position: relative;
+  left: 5rem;
+  top: 20px;
+}
+.shipping{
+  font-size: 50px !important;
+}
+.Card{
+  width: 350px;
+}
+
+
+
+
+/*__________________M A N  C A R D_______________________*/
+
+
+section{
+  width: 100%;
+  height: 120vh;
+  background-color: whitesmoke;
+  position: relative;
+}
+.Mancard{
+  position: relative;
+  left: 3rem;
+}
+.coloms{
+  position: relative;
+  top: 50px;
+  left: 5rem;
+  overflow: hidden;
+  width: 25rem;
+  height: 20rem;
+  background-image: url(file:///D:/React%20batch%206%20to%208/FrontEnd/ecommerce/src/Image/BG/Cards/Shirt.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.overlay{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,.5);
+  color: #fff;
+  transition: .7s;
+  opacity: 0;
+}
+.content{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 170px;
+  display: flex;
+  padding: 0 10px;
+  flex-direction: column;
+  justify-content: space-between;
+  transform: translateY(200px);
+  transition: .3s;
+}
+.name{
+  position: absolute;
+  top: -20px;
+  padding: 3px 0;
+}
+.name::after{
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background-color: #fff;
+  transition: .4s;
+  transition-delay: .5s;
+}
+.content a{
+  display: block;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  text-decoration: none;
+  color: #fff;
+  border: 2px solid #fff;
+  margin-bottom: 20px;
+}
+.coloms:hover .overlay{
+  opacity: 1;
+}
+.coloms:hover .content{
+  transform: translateY(0px);
+}
+.coloms:hover .name::after{
+  width: 100%;
+}
+.coloms2{
+  position: absolute;
+  top: 50px;
+  left: 30.5rem;
+  width: 25rem;
+  height: 20rem;
+  background-image: url(file:///D:/React%20batch%206%20to%208/FrontEnd/ecommerce/src/Image/BG/Cards/Watch.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+.coloms2:hover .overlay{
+  opacity: 1;
+}
+.coloms2:hover .content{
+  transform: translateY(0px);
+}
+.coloms2:hover .name::after{
+  width: 100%;
+}
+.coloms3 {
+  position: absolute;
+  top: 23.5rem;
+  left: 5rem;
+  width: 50.4rem;
+  height: 18rem;
+  background-image: url(file:///D:/React%20batch%206%20to%208/FrontEnd/ecommerce/src/Image/BG/Cards/Formal.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+.coloms3:hover .overlay{
+  opacity: 1;
+}
+.coloms3:hover .content{
+  transform: translateY(0px);
+}
+.coloms3:hover .name::after{
+  width: 100%;
+}
+.coloms4{
+  position: absolute;
+  top: 3.1rem;
+  right: 9rem;
+  width: 30rem;
+  height: 38.3rem;
+  background-image: url(file:///D:/React%20batch%206%20to%208/FrontEnd/ecommerce/src/Image/BG/Cards/Shoes.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+.coloms4:hover .overlay{
+  opacity: 1;
+}
+.coloms4:hover .content{
+  transform: translateY(0px);
+}
+.coloms4:hover .name::after{
+  width: 100%;
+}
+
+
+
+
+/*______________ W O M A N   C A R D  _____________*/
+
+
+.coloms5{
+  position: relative;
+  top: 50px;
+  left: 5rem;
+  overflow: hidden;
+  width: 25rem;
+  height: 20rem;
+  background-image: url(file:///D:/React%20batch%206%20to%208/FrontEnd/ecommerce/src/Image/BG/Woman%20Card/Jeans.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.coloms5:hover .overlay{
+  opacity: 1;
+}
+.coloms5:hover .content{
+  transform: translateY(0px);
+}
+.coloms5:hover .name::after{
+  width: 100%;
+}
+
+.coloms6{
+  position: absolute;
+  top: 50px;
+  left: 30.5rem;
+  width: 25rem;
+  height: 20rem;
+  background-image: url(file:///D:/React%20batch%206%20to%208/FrontEnd/ecommerce/src/Image/BG/Woman%20Card/Shoes.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+.coloms6:hover .overlay{
+  opacity: 1;
+}
+.coloms6:hover .content{
+  transform: translateY(0px);
+}
+.coloms6:hover .name::after{
+  width: 100%;
+}
+
+.coloms7{
+  position: absolute;
+  top: 23.5rem;
+  left: 5.1rem;
+  width: 50.4rem;
+  height: 22rem;
+  background-image: url(file:///D:/React%20batch%206%20to%208/FrontEnd/ecommerce/src/Image/BG/Woman%20Card/Woman%20Skirt.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+.coloms7:hover .overlay{
+  opacity: 1;
+}
+.coloms7:hover .content{
+  transform: translateY(0px);
+}
+.coloms7:hover .name::after{
+  width: 100%;
+}
+
+.coloms8{
+  position: absolute;
+  top: 3.1rem;
+  right: 9rem;
+  width: 30rem;
+  height: 42.3rem;
+  background-image: url(file:///D:/React%20batch%206%20to%208/FrontEnd/ecommerce/src/Image/BG/Woman%20Card/Saree.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+.coloms8:hover .overlay{
+  opacity: 1;
+}
+.coloms8:hover .content{
+  transform: translateY(0px);
+}
+.coloms8:hover .name::after{
+  width: 100%;
+}
+
+
+
+/*_______________C A T E G O R I E S______________________*/
+
+.Categories{
+  position: relative;
+  bottom: -4rem;
+}
+.Cate, li{
+  position: relative;
+  top: -10px;
+  justify-content: space-around;
+  font-size: 22px;
+  text-decoration: none;
+  display: flex;
+  font-weight: bold;
+}
+.Categories img{
+  position: relative;
+  left: -3.6rem;
+  top: -30px;
+  margin-left: 120px;
+  width: 180px;
+  height: 180px;
+  border: 2px solid white;
+  border-radius: 100px;
+}
+.Categories h3{
+  color: black;
+}
+.Container-flex{
+  /* background-color: aquamarine; */
+  height: 70vh;
+  width: 100%;
+  box-sizing: border-box;
+}
+.Contain-box{
+  height: 70vh;
+  background-color: rgb(253, 239, 219);
+  /* box-shadow: 10px 2px 10px rgb(8, 8, 8); */
+
+}
+.Contain-box img{
+  margin-top: 40px;
+  margin-left: 30px;
+  width: 16rem;
+  height: 22rem;
+  position: relative;
+  left: 2rem;
+}
+.Contain-box h2{
+  /* text-align: center; */
+  padding: 30px 0 0 20px;
+  letter-spacing: 1px;
+  font-weight: 700;
+}
+
+
+
+  /*_________________W O M E N  S L I D E R  C A R D______________ */
+
+
+.react-multiple-carousel__arrow--right {
+    border: solid 0px red !important;
+    border-radius: 0px !important;
+    height: 80px !important;
+    top: 14rem !important;
+    right: calc(4% + 1px) !important;
+}
+.react-multiple-carousel__arrow--left {
+  border: solid 0px red !important;
+  border-radius: 0px !important;
+  height: 80px !important;
+  top: 14rem !important;
+  left: calc(4% + 1px) !important;
+}
+.row{
+  position: relative;
+  top: 2rem;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+.link{
+  color: black;
+  font-size: 17px;
+  text-decoration: none;
+  text-align: center;
+}
+.bg-warning{
+  position: relative;
+  top: 5rem;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: antiquewhite !important;
+}
+.p-2 p{
+  font-size: 18px;
+  font-weight: 100;
+  color: black;
+  height: 60px;
+}
+.link:hover{
+  color:black;
+}
+.buttons{
+  width: 20rem;
+  height: 35px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+Button{
+  background-color: rgb(253, 210, 146);
+  /* height: 35px; */
+  border: black 2px solid;
+  border-radius: -20px;
+}
+.heading{
+  position: relative;
+  top: -1rem;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: antiquewhite;
+}
+.carousel23{
+  height: 35rem;
+}
+
+
+/*_______________M A N  W E A R_________________*/
+
+.container1{
+  position: relative;
+  top: 10rem;
+}
+.container2{
+  position: relative;
+  top: 18rem;
+}
+.container3{
+  position: relative;
+  top: 25rem;
+}
+.container4{
+  position: relative;
+  top: 30rem;
+}
+.HoverImg{
+  overflow: hidden;
+}
+.HoverImg img{
+  height: 25rem !important;
+  transition: 0.2s;
+  cursor: pointer;
+}
+.HoverImg:hover img{
+  transform: scale(1.1);
+}
+
+
+/*_____________S L O G A N_______________*/
+
+.Slogan{
+  background-image: url(./Image//BG/Fixed.jpg);
+  background-position: center;
+  background-clip: content-box;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  width: 100%;
+  height: 25rem;
+  position: relative;
+  top: 25rem;
+  margin-bottom: 10rem;
+}
+
+
+/*________________S I D E B A R ______________________*/
+
+.Sidebar{
+  position: absolute;
+  top: 10rem;
+  background-color:white;
+  border-right: 1px solid black;
+  width: 17%;
+  height: 200vh;
+  /* box-shadow: 1px 0px 10px black; */
+  text-align: center;
+  padding-top: 10px;
+}
+.Sidebar h4{
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+
+/*___________C E N T E R  B A R______________*/
+
+.centerbar{
+  position: relative;
+  left: 18%;
+  background-color: whitesmoke;
+  width: 83%;
+  height: auto;
+}
+.centerslider{
+  position: relative;
+  top: 5rem;
+}
+.centerslider .search{
+  padding: 0 10px;
+  font-size: 18px;
+  position: relative;
+  left:60rem;
+}
+.desc{
+  text-overflow: ellipsis; /* enables ellipsis */
+  white-space: nowrap; /* keeps the text in a single line */
+  overflow: hidden;
+  width: 15rem;
+  /* height: 40px; */
+}
+.cardimg{
+  height: 15rem;
+}
+.delete{
+  display: flex;
+}
+.delete p{
+  font-weight: bold;
+  color: rgb(0, 140, 0);
+  margin-left:2rem ;
+}
+.star{
+  width: 80px;
+  height: 20px;
+  z-index: 99;
+}
+.Pants{
+  height: 30px;
+  width: 15rem;
+}
+.Pants .AddCard{
+  text-decoration: none;
+  color: black;
+}
+.hearticons{
+  top: 10px;
+  left: 12.5rem;
+}
+.icones{
+  position: absolute;
+  width: 10px !important;
+  height: 70px !important;
+}
+.hearticons .cards2 .ICON{
+  padding: 2px;
+  margin-top: 40px;
+  position: relative;
+  z-index: -4;
+  right: -15.6rem;
+  top: -6px;
+  color: black;
+  
+  transition: 0.5s;
+}
+.hearticons:hover .ICON{
+  right: -15rem;
+  top: 35px;
+  z-index: 4;
+}
+.hearticons .ICON:hover{
+  color: rgb(247, 189, 104);
+}
+.cards2 h5{
+  background-color: aquamarine;
+  color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  border-radius: 5px ;
+  font-size: 15px;
+}
+.cards2 p{
+  background-color: rgb(189, 230, 107);
+  color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+  width: auto;
+  height: auto;
+  position: absolute;
+  top: 5px;
+  right:  5px;
+  border-radius: 5px ;
+  font-size: 16px;
+}
+del{
+  position: absolute;
+  right: 30px;
+  bottom: 50px;
+  font-size: 20px;
+  color: red;
+}
+.slogan{
+  position: relative;
+  background-image: url(./Image/BG/W.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 60vh;
+}
+.Container-column{
+  display: flex;
+  position: relative;
+  left: 70rem;
+  top: -8rem;
+  font-size: 55px;
+}
+.countdown{
+  box-shadow: 2px 5px 10px rgb(247, 189, 104);
+  width: 19rem;
+  height: 6rem;
+  font-weight: bold;
+  
+}
+.Contaier-row{
+  height: 20vh !important;
+  width: 50rem !important;
+  position: absolute;
+  right: 0px;
+}
+.CardImg{
+  height: 12rem;
+  width: auto;
+}
+.Column{
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.Column-1{
+  flex-wrap: wrap;
+}
+.Container-columns{
+  position: relative;
+  top: 3rem;
+  left: 10px;
+}
+.Container-columns img{
+  width: 15rem;
+  height: 22rem;
+  margin-left: 20px;
+}
+.Deal{
+  position: absolute;
+  right: 9rem;
+  top: 25px;
+}
+.Deal h1{
+  color: rgb(247, 189, 104);
+  font-size: 55px;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+.Contaier-Inline{
+  background-color: aqua;
+  width: 100%;
+  height: 80vh;
+}
+.Boxes{
+  position: relative;
+  top: 32rem !important;
+}
+.Wrapper{
+  position: absolute;
+  top: 2.5rem;
+}
+#formControlLg{
+  border: 2px solid blue;
+}
+.divider{
+  position: relative;
+  left: 16rem;
+}
+.text-center{
+  font-size: 25px !important;
+}
+.small{
+  position: relative;
+  top: 2rem;
+  text-align: center;
+}
+
+.MDBinput{
+  width: 20rem !important;
+}
+.mb-4 .small{
+  position: relative;
+  top: 2rem;
+  font-size: 15px;
+  letter-spacing: 1px;
+}
+#MdbColumn{
+  position: relative;
+  left: 10rem;
+  top: -2rem;
+}
+.Atleast{
+  position: relative;
+  left: -19rem;
+  top: 2.5rem;
+}
+#register{
+  position: relative;
+  top: 2rem;
+  left: 9rem;
+  font-size: 20px;
+}
+#singup{
+  position: relative;
+  left: -9rem;
+  top: -0.5rem;
+}
+.Phone{
+  width: 22rem;
+  font-size: 20px;
+}
+.Textfield{
+  width: 38rem;
+}
+.Brand{
+  display: grid;
+  margin-left: 3rem;
+}
+.FormControlLabel h4{
+  margin-top: 2rem;
+  letter-spacing: 2px;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
